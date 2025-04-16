@@ -295,7 +295,7 @@
           <mxGeometry x="-460" y="2060" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uC6jYARFY-rDoIrH_P8v-73" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;党员&lt;/font&gt;ID&lt;/span&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=宋体;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="-602.5" y="2170" width="120" height="20" as="geometry" />
+          <mxGeometry x="-820" y="2300" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uC6jYARFY-rDoIrH_P8v-74" value="关联用户ID" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=宋体;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="-482.5" y="2170" width="120" height="20" as="geometry" />
