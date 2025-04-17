@@ -128,7 +128,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uC6jYARFY-rDoIrH_P8v-31" value="党组织表" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=宋体;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="-405" y="1810" width="120" height="20" as="geometry" />
+          <mxGeometry x="-705" y="1980" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uC6jYARFY-rDoIrH_P8v-32" value="党支部ID" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=宋体;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="-205" y="1770" width="120" height="20" as="geometry" />
