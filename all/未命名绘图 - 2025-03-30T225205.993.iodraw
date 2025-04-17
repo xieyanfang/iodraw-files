@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="P0TP3kdkAERBmf_lHFjx" name="第 1 页">
-    <mxGraphModel dx="2759" dy="-515" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2101" dy="-905" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -435,10 +435,10 @@
             <mxPoint x="-500" y="1510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uC6jYARFY-rDoIrH_P8v-149" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontStyle=1;fontFamily=宋体;fontSize=13;entryX=0.512;entryY=0.992;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="uC6jYARFY-rDoIrH_P8v-72" edge="1" target="uC6jYARFY-rDoIrH_P8v-234">
+        <mxCell id="uC6jYARFY-rDoIrH_P8v-149" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontStyle=1;fontFamily=宋体;fontSize=13;" parent="1" source="uC6jYARFY-rDoIrH_P8v-72" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-112.5" y="2040" as="sourcePoint" />
-            <mxPoint x="-380" y="2100" as="targetPoint" />
+            <mxPoint x="-400" y="2140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uC6jYARFY-rDoIrH_P8v-240" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontFamily=宋体;fontSize=13;" parent="uC6jYARFY-rDoIrH_P8v-149" vertex="1" connectable="0">
@@ -665,7 +665,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uC6jYARFY-rDoIrH_P8v-234" value="接受" style="rhombus;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=宋体;fontSize=13;" parent="1" vertex="1">
+        <mxCell id="uC6jYARFY-rDoIrH_P8v-234" value="接受" style="rhombus;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=宋体;fontSize=13;rotation=-55;" parent="1" vertex="1">
           <mxGeometry x="-413" y="2100" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uC6jYARFY-rDoIrH_P8v-235" value="通知" style="rhombus;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=宋体;fontSize=13;" parent="1" vertex="1">
@@ -782,7 +782,7 @@
         <mxCell id="uC6jYARFY-rDoIrH_P8v-146" value="党费ID" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=宋体;fontSize=13;" parent="gQB71WYaKW58pVnjB2EQ-1" vertex="1">
           <mxGeometry width="100" height="24.444444444444446" as="geometry" />
         </mxCell>
-        <mxCell id="gQB71WYaKW58pVnjB2EQ-4" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0.996;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.499;exitY=0.004;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="uC6jYARFY-rDoIrH_P8v-234" target="uC6jYARFY-rDoIrH_P8v-42">
+        <mxCell id="gQB71WYaKW58pVnjB2EQ-4" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0.996;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.977;exitY=0.516;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="uC6jYARFY-rDoIrH_P8v-234" target="uC6jYARFY-rDoIrH_P8v-42">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-345" y="1886.58" as="sourcePoint" />
             <mxPoint x="-295" y="1836.58" as="targetPoint" />
