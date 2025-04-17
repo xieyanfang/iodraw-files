@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="P0TP3kdkAERBmf_lHFjx" name="第 1 页">
-    <mxGraphModel dx="2889" dy="-438" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3154" dy="-282" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -128,51 +128,51 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uC6jYARFY-rDoIrH_P8v-31" value="党组织表" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=宋体;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="-260" y="1750" width="120" height="20" as="geometry" />
+          <mxGeometry x="-405" y="1810" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uC6jYARFY-rDoIrH_P8v-32" value="党支部ID" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=宋体;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="-60" y="1710" width="120" height="20" as="geometry" />
+          <mxGeometry x="-205" y="1770" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uC6jYARFY-rDoIrH_P8v-33" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;党支部名称&lt;/span&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=宋体;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="-60" y="1730" width="120" height="20" as="geometry" />
+          <mxGeometry x="-205" y="1790" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uC6jYARFY-rDoIrH_P8v-34" value="上级党组织ID" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=宋体;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="-60" y="1750" width="120" height="20" as="geometry" />
+          <mxGeometry x="-205" y="1810" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uC6jYARFY-rDoIrH_P8v-35" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;党支部描述&lt;/span&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=宋体;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="-60" y="1770" width="120" height="20" as="geometry" />
+          <mxGeometry x="-205" y="1830" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uC6jYARFY-rDoIrH_P8v-36" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;创建时间&lt;/span&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=宋体;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="-60" y="1790" width="120" height="20" as="geometry" />
+          <mxGeometry x="-205" y="1850" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uC6jYARFY-rDoIrH_P8v-37" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1;fontFamily=宋体;fontSize=13;" parent="1" target="uC6jYARFY-rDoIrH_P8v-32" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-140" y="1760" as="sourcePoint" />
-            <mxPoint x="-140" y="1630" as="targetPoint" />
+            <mxPoint x="-285" y="1820" as="sourcePoint" />
+            <mxPoint x="-285" y="1690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uC6jYARFY-rDoIrH_P8v-38" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1;fontFamily=宋体;fontSize=13;" parent="1" target="uC6jYARFY-rDoIrH_P8v-33" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-140" y="1760" as="sourcePoint" />
-            <mxPoint x="-140" y="1630" as="targetPoint" />
+            <mxPoint x="-285" y="1820" as="sourcePoint" />
+            <mxPoint x="-285" y="1690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uC6jYARFY-rDoIrH_P8v-39" value="" style="endArrow=none;html=1;fontStyle=1;fontFamily=宋体;fontSize=13;" parent="1" target="uC6jYARFY-rDoIrH_P8v-34" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-140" y="1760" as="sourcePoint" />
-            <mxPoint x="-140" y="1630" as="targetPoint" />
+            <mxPoint x="-285" y="1820" as="sourcePoint" />
+            <mxPoint x="-285" y="1690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uC6jYARFY-rDoIrH_P8v-40" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1;fontFamily=宋体;fontSize=13;" parent="1" target="uC6jYARFY-rDoIrH_P8v-35" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-140" y="1760" as="sourcePoint" />
-            <mxPoint x="-140" y="1630" as="targetPoint" />
+            <mxPoint x="-285" y="1820" as="sourcePoint" />
+            <mxPoint x="-285" y="1690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uC6jYARFY-rDoIrH_P8v-41" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1;fontFamily=宋体;fontSize=13;" parent="1" target="uC6jYARFY-rDoIrH_P8v-36" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-140" y="1760" as="sourcePoint" />
-            <mxPoint x="-140" y="1630" as="targetPoint" />
+            <mxPoint x="-285" y="1820" as="sourcePoint" />
+            <mxPoint x="-285" y="1690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uC6jYARFY-rDoIrH_P8v-42" value="党员教育" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=宋体;fontSize=13;" parent="1" vertex="1">
