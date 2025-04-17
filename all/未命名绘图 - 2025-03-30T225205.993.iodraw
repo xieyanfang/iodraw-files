@@ -179,48 +179,48 @@
           <mxGeometry x="-550" y="2030" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uC6jYARFY-rDoIrH_P8v-43" value="教育ID" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=宋体;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="-305" y="1950" width="120" height="20" as="geometry" />
+          <mxGeometry x="-360" y="1990" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uC6jYARFY-rDoIrH_P8v-44" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;教育标题&lt;/span&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=宋体;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="-305" y="1970" width="120" height="20" as="geometry" />
+          <mxGeometry x="-360" y="2010" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uC6jYARFY-rDoIrH_P8v-45" value="教育内容" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=宋体;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="-305" y="1990" width="120" height="20" as="geometry" />
+          <mxGeometry x="-360" y="2030" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uC6jYARFY-rDoIrH_P8v-46" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;类别id&lt;/span&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=宋体;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="-305" y="2010" width="120" height="20" as="geometry" />
+          <mxGeometry x="-360" y="2050" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uC6jYARFY-rDoIrH_P8v-47" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;创建时间&lt;/span&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=宋体;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="-305" y="2030" width="120" height="20" as="geometry" />
+          <mxGeometry x="-360" y="2070" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uC6jYARFY-rDoIrH_P8v-48" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1;fontFamily=宋体;fontSize=13;" parent="1" target="uC6jYARFY-rDoIrH_P8v-43" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-52.5" y="1900" as="sourcePoint" />
-            <mxPoint x="-52.5" y="1770" as="targetPoint" />
+            <mxPoint x="-440" y="2040" as="sourcePoint" />
+            <mxPoint x="-440" y="1910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uC6jYARFY-rDoIrH_P8v-49" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1;fontFamily=宋体;fontSize=13;" parent="1" target="uC6jYARFY-rDoIrH_P8v-44" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-52.5" y="1900" as="sourcePoint" />
-            <mxPoint x="-52.5" y="1770" as="targetPoint" />
+            <mxPoint x="-440" y="2040" as="sourcePoint" />
+            <mxPoint x="-440" y="1910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uC6jYARFY-rDoIrH_P8v-50" value="" style="endArrow=none;html=1;fontStyle=1;fontFamily=宋体;fontSize=13;" parent="1" target="uC6jYARFY-rDoIrH_P8v-45" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-52.5" y="1900" as="sourcePoint" />
-            <mxPoint x="-52.5" y="1770" as="targetPoint" />
+            <mxPoint x="-440" y="2040" as="sourcePoint" />
+            <mxPoint x="-440" y="1910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uC6jYARFY-rDoIrH_P8v-51" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1;fontFamily=宋体;fontSize=13;" parent="1" target="uC6jYARFY-rDoIrH_P8v-46" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-52.5" y="1900" as="sourcePoint" />
-            <mxPoint x="-52.5" y="1770" as="targetPoint" />
+            <mxPoint x="-440" y="2040" as="sourcePoint" />
+            <mxPoint x="-440" y="1910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uC6jYARFY-rDoIrH_P8v-52" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1;fontFamily=宋体;fontSize=13;" parent="1" target="uC6jYARFY-rDoIrH_P8v-47" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-53" y="1900" as="sourcePoint" />
-            <mxPoint x="-52.5" y="1770" as="targetPoint" />
+            <mxPoint x="-440" y="2040" as="sourcePoint" />
+            <mxPoint x="-440" y="1910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uC6jYARFY-rDoIrH_P8v-53" value="党费" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=宋体;fontSize=13;" parent="1" vertex="1">
