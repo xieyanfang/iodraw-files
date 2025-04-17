@@ -955,10 +955,10 @@
           <mxGeometry x="-355" y="2277" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uC6jYARFY-rDoIrH_P8v-93" value="党籍状态" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=宋体;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="-373.5" y="2217" width="70" height="30" as="geometry" />
+          <mxGeometry x="-336" y="2246" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uC6jYARFY-rDoIrH_P8v-94" value="帐号状态" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=宋体;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="-348" y="2187" width="70" height="30" as="geometry" />
+          <mxGeometry x="-314" y="2211" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
