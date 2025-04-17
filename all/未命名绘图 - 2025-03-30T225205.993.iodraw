@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="P0TP3kdkAERBmf_lHFjx" name="第 1 页">
-    <mxGraphModel dx="2967" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2567" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -597,21 +597,6 @@
         <mxCell id="uC6jYARFY-rDoIrH_P8v-180" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;角色&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=宋体;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="-311.75" y="1920" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="uC6jYARFY-rDoIrH_P8v-181" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;角色&lt;/span&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;id&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=宋体;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="-121.75" y="1840" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="uC6jYARFY-rDoIrH_P8v-182" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;角色名称&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=宋体;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="-121.75" y="1860" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="uC6jYARFY-rDoIrH_P8v-183" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;权限字符串&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=宋体;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="-121.75" y="1880" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="uC6jYARFY-rDoIrH_P8v-184" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;类别id&lt;/span&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=宋体;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="-121.75" y="1900" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="uC6jYARFY-rDoIrH_P8v-185" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;显示顺序&lt;/span&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=宋体;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="-121.75" y="1920" width="120" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="uC6jYARFY-rDoIrH_P8v-186" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1;fontFamily=宋体;fontSize=13;" parent="1" target="uC6jYARFY-rDoIrH_P8v-181" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-191.75" y="1930" as="sourcePoint" />
@@ -647,18 +632,6 @@
             <mxPoint x="-191.75" y="1920" as="sourcePoint" />
             <mxPoint x="-191.75" y="1790" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="uC6jYARFY-rDoIrH_P8v-192" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;数据范围&lt;/span&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=宋体;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="-121.75" y="1940" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="uC6jYARFY-rDoIrH_P8v-193" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;删除标志&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=宋体;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="-121.75" y="1960" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="uC6jYARFY-rDoIrH_P8v-194" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;角色状态&lt;/span&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=宋体;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="-121.75" y="1980" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="uC6jYARFY-rDoIrH_P8v-195" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;创建时间&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=宋体;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="-121.75" y="2000" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uC6jYARFY-rDoIrH_P8v-196" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1;fontFamily=宋体;fontSize=13;" parent="1" target="uC6jYARFY-rDoIrH_P8v-192" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -900,6 +873,36 @@
         </mxCell>
         <mxCell id="uC6jYARFY-rDoIrH_P8v-47" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;创建时间&lt;/span&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=宋体;fontSize=13;" parent="gQB71WYaKW58pVnjB2EQ-7" vertex="1">
           <mxGeometry y="104" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="gQB71WYaKW58pVnjB2EQ-8" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-827" y="2100" width="120" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="uC6jYARFY-rDoIrH_P8v-181" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;角色&lt;/span&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;id&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=宋体;fontSize=13;" parent="gQB71WYaKW58pVnjB2EQ-8" vertex="1">
+          <mxGeometry width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uC6jYARFY-rDoIrH_P8v-182" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;角色名称&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=宋体;fontSize=13;" parent="gQB71WYaKW58pVnjB2EQ-8" vertex="1">
+          <mxGeometry y="20" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uC6jYARFY-rDoIrH_P8v-183" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;权限字符串&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=宋体;fontSize=13;" parent="gQB71WYaKW58pVnjB2EQ-8" vertex="1">
+          <mxGeometry y="40" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uC6jYARFY-rDoIrH_P8v-184" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;类别id&lt;/span&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=宋体;fontSize=13;" parent="gQB71WYaKW58pVnjB2EQ-8" vertex="1">
+          <mxGeometry y="60" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uC6jYARFY-rDoIrH_P8v-185" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;显示顺序&lt;/span&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=宋体;fontSize=13;" parent="gQB71WYaKW58pVnjB2EQ-8" vertex="1">
+          <mxGeometry y="80" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uC6jYARFY-rDoIrH_P8v-192" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;数据范围&lt;/span&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=宋体;fontSize=13;" parent="gQB71WYaKW58pVnjB2EQ-8" vertex="1">
+          <mxGeometry y="100" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uC6jYARFY-rDoIrH_P8v-193" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;删除标志&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=宋体;fontSize=13;" parent="gQB71WYaKW58pVnjB2EQ-8" vertex="1">
+          <mxGeometry y="120" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uC6jYARFY-rDoIrH_P8v-194" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;角色状态&lt;/span&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=宋体;fontSize=13;" parent="gQB71WYaKW58pVnjB2EQ-8" vertex="1">
+          <mxGeometry y="140" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uC6jYARFY-rDoIrH_P8v-195" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;创建时间&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=宋体;fontSize=13;" parent="gQB71WYaKW58pVnjB2EQ-8" vertex="1">
+          <mxGeometry y="160" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
