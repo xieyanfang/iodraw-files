@@ -176,36 +176,36 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uC6jYARFY-rDoIrH_P8v-42" value="党员教育" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=宋体;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="-540" y="1906.58" width="120" height="20" as="geometry" />
+          <mxGeometry x="-365" y="1966.58" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uC6jYARFY-rDoIrH_P8v-48" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1;fontFamily=宋体;fontSize=13;exitX=0.998;exitY=0.538;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="uC6jYARFY-rDoIrH_P8v-43" edge="1" source="uC6jYARFY-rDoIrH_P8v-42">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-430" y="1866.58" as="sourcePoint" />
-            <mxPoint x="-440" y="1736.58" as="targetPoint" />
+            <mxPoint x="-255" y="1926.58" as="sourcePoint" />
+            <mxPoint x="-265" y="1796.58" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uC6jYARFY-rDoIrH_P8v-49" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1;fontFamily=宋体;fontSize=13;exitX=1;exitY=0.526;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="uC6jYARFY-rDoIrH_P8v-44" edge="1" source="uC6jYARFY-rDoIrH_P8v-42">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-440" y="1866.58" as="sourcePoint" />
-            <mxPoint x="-440" y="1736.58" as="targetPoint" />
+            <mxPoint x="-265" y="1926.58" as="sourcePoint" />
+            <mxPoint x="-265" y="1796.58" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uC6jYARFY-rDoIrH_P8v-50" value="" style="endArrow=none;html=1;fontStyle=1;fontFamily=宋体;fontSize=13;exitX=1.003;exitY=0.545;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.004;entryY=0.53;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="uC6jYARFY-rDoIrH_P8v-45" edge="1" source="uC6jYARFY-rDoIrH_P8v-42">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-440" y="1866.58" as="sourcePoint" />
-            <mxPoint x="-440" y="1736.58" as="targetPoint" />
+            <mxPoint x="-265" y="1926.58" as="sourcePoint" />
+            <mxPoint x="-265" y="1796.58" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uC6jYARFY-rDoIrH_P8v-51" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1;fontFamily=宋体;fontSize=13;exitX=1;exitY=0.51;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="uC6jYARFY-rDoIrH_P8v-46" edge="1" source="uC6jYARFY-rDoIrH_P8v-42">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-430" y="1866.58" as="sourcePoint" />
-            <mxPoint x="-440" y="1736.58" as="targetPoint" />
+            <mxPoint x="-255" y="1926.58" as="sourcePoint" />
+            <mxPoint x="-265" y="1796.58" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uC6jYARFY-rDoIrH_P8v-52" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1;fontFamily=宋体;fontSize=13;exitX=1.001;exitY=0.526;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="uC6jYARFY-rDoIrH_P8v-47" edge="1" source="uC6jYARFY-rDoIrH_P8v-42">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-440" y="1866.58" as="sourcePoint" />
-            <mxPoint x="-440" y="1736.58" as="targetPoint" />
+            <mxPoint x="-265" y="1926.58" as="sourcePoint" />
+            <mxPoint x="-265" y="1796.58" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uC6jYARFY-rDoIrH_P8v-53" value="党费" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=宋体;fontSize=13;" parent="1" vertex="1">
@@ -671,7 +671,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uC6jYARFY-rDoIrH_P8v-234" value="接受" style="rhombus;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=宋体;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="-510" y="1955" width="60" height="30" as="geometry" />
+          <mxGeometry x="-335" y="2015" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uC6jYARFY-rDoIrH_P8v-239" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1;fontFamily=宋体;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="120.5" y="1973" width="20" height="20" as="geometry" />
@@ -792,8 +792,8 @@
         </mxCell>
         <mxCell id="gQB71WYaKW58pVnjB2EQ-4" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0.996;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.499;exitY=0.004;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="uC6jYARFY-rDoIrH_P8v-234" target="uC6jYARFY-rDoIrH_P8v-42">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-520" y="1826.58" as="sourcePoint" />
-            <mxPoint x="-470" y="1776.58" as="targetPoint" />
+            <mxPoint x="-345" y="1886.58" as="sourcePoint" />
+            <mxPoint x="-295" y="1836.58" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gQB71WYaKW58pVnjB2EQ-6" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gQB71WYaKW58pVnjB2EQ-4">
@@ -802,7 +802,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gQB71WYaKW58pVnjB2EQ-7" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-380" y="1836.58" width="120" height="130" as="geometry" />
+          <mxGeometry x="-205" y="1896.58" width="120" height="130" as="geometry" />
         </mxCell>
         <mxCell id="uC6jYARFY-rDoIrH_P8v-43" value="教育ID" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=宋体;fontSize=13;" parent="gQB71WYaKW58pVnjB2EQ-7" vertex="1">
           <mxGeometry width="120" height="26" as="geometry" />
