@@ -608,7 +608,7 @@
         <mxCell id="uC6jYARFY-rDoIrH_P8v-234" value="接受" style="rhombus;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=宋体;fontSize=13;rotation=-30;" parent="1" vertex="1">
           <mxGeometry x="-455" y="1996.58" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Lzh6-jdxqEGhyR0CQRGF-4" value="" style="endArrow=none;html=1;entryX=0.473;entryY=-0.111;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1;fontSize=13;" parent="1" source="uC6jYARFY-rDoIrH_P8v-235" target="uC6jYARFY-rDoIrH_P8v-1" edge="1">
+        <mxCell id="Lzh6-jdxqEGhyR0CQRGF-4" value="" style="endArrow=none;html=1;entryX=0.473;entryY=-0.111;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1;fontSize=13;exitX=0.508;exitY=0.994;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="uC6jYARFY-rDoIrH_P8v-235" target="uC6jYARFY-rDoIrH_P8v-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-345" y="1660" as="sourcePoint" />
             <mxPoint x="-345" y="1660" as="targetPoint" />
@@ -616,7 +616,7 @@
         </mxCell>
         <mxCell id="Lzh6-jdxqEGhyR0CQRGF-7" value="m" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=13;" parent="Lzh6-jdxqEGhyR0CQRGF-4" vertex="1" connectable="0">
           <mxGeometry x="0.698" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-25" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uC6jYARFY-rDoIrH_P8v-233" value="产生" style="rhombus;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=宋体;fontSize=13;rotation=-60;" parent="1" vertex="1">
