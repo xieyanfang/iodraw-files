@@ -898,7 +898,7 @@
         <mxCell id="gQB71WYaKW58pVnjB2EQ-13" value="属于" style="rhombus;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=宋体;fontSize=13;rotation=60;" vertex="1" parent="1">
           <mxGeometry x="-617.5" y="2045.67" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gQB71WYaKW58pVnjB2EQ-14" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="gQB71WYaKW58pVnjB2EQ-14" value="" style="endArrow=none;html=1;rounded=0;entryX=0.981;entryY=0.503;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.39;exitY=-0.002;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="uC6jYARFY-rDoIrH_P8v-72" target="gQB71WYaKW58pVnjB2EQ-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-630" y="2160" as="sourcePoint" />
             <mxPoint x="-580" y="2110" as="targetPoint" />
